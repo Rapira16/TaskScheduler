@@ -8,6 +8,19 @@
     <SolidColorBrush x:Key="TaskStatusBackground" Color="#FFF6F6F6" />
     <SolidColorBrush x:Key="DefaultText" Color="#ff474747" />
     <SolidColorBrush x:Key="OnAccent" Color="#ffffffff" />
+    <SolidColorBrush x:Key="PlaceholderText" Color="#ff5d5d5d" />
+
+    <SolidColorBrush x:Key="Buttom.Complete" Color="#ff57b186" />
+    <SolidColorBrush x:Key="Buttom.Complete.Over" Color="#ff4b886b" />
+    <SolidColorBrush x:Key="Buttom.Complete.Click" Color="#ff9fd4bb" />
+    <SolidColorBrush x:Key="Buttom.Edit" Color="#ff848484" />
+    <SolidColorBrush x:Key="Buttom.Edit.Over" Color="#ff676767" />
+    <SolidColorBrush x:Key="Buttom.Edit.Click" Color="#ffbdbdbd" />
+    <SolidColorBrush x:Key="Buttom.Delete" Color="#ffa94949" />
+    <SolidColorBrush x:Key="Buttom.Delete.Over" Color="#ff863636" />
+    <SolidColorBrush x:Key="Buttom.Delete.Click" Color="#ffc18888" />
+
+    <SolidColorBrush x:Key="Borders" Color="#ffcccccc" />
 
     <SolidColorBrush x:Key="Importance-Low" Color="#ff0caff4" />
     <SolidColorBrush x:Key="Importance-Med" Color="#ff2ad985" />
